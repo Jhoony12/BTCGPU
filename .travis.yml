@@ -85,7 +85,7 @@ jobs:
         RUN_TESTS=true
         GOAL="install"
         BITCOIN_CONFIG="--enable-reduce-exports"
-# Win64
+# Win64Win64Win64Win64Win64Win64Win64Win64
     - stage: test
       env: >-
         HOST=x86_64-w64-mingw32

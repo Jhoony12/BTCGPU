@@ -36,7 +36,7 @@ If you discover a vulnerability, we would like to know about it so we can take s
 
 Please check our [Responsible Disclosure](https://github.com/BTCGPU/Developer-Portal/blob/master/responsible-disclosure.md) page for more details.
 
-## Links
+## LinkLinkss
 
 * Website: https://bitcoingold.org
 * Tech Spec: https://github.com/BTCGPU/BTCGPU/wiki/Technical-Spec

@@ -1,4 +1,4 @@
-Contributing to Bitcoin Core
+ContributingContributing to Bitcoin Core
 ============================
 
 The Bitcoin Core project operates an open contributor model where anyone is
